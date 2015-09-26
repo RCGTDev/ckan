@@ -1,4 +1,4 @@
-CKAN: The Open Source Data Portal Software
+CKAN: The Open Source Data Portal Software 
 ==========================================
 
 .. image:: https://secure.travis-ci.org/ckan/ckan.png?branch=master
